@@ -2,8 +2,7 @@
 
 Project title	:Job Market Analysis
 
-Team Members:	1.	Suresh Adda 2.	Swati Giri 3.	Anand Sankar Radhakrishnan
-
+Team Members:	1.	Suresh Adda 2.	Swati Giri 3.	Anand Sankar 
 Project Description:	
 Objective of this project is to retrieve job data from one or more sources, 
 standardize the data retrieved from various sources, aggregate the data and 
